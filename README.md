@@ -16,6 +16,7 @@
 ```
 发布版/
 ├── ESP32-PinLab/             ← PC 端程序目录（双击里面的 exe 运行）
+|---|start.bat                ← 启动脚本 如果双击exe文件无法运行，就双击start.bat
 │   ├── ESP32-PinLab.exe      ←   主程序
 │   └── _internal/            ←   运行库（别删，别单独挪走 exe）
 ├── ESP32-PinLab.zip          ← 上面整个目录的压缩包（分发给别人用这个）
